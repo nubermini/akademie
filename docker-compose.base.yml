@@ -1,0 +1,25 @@
+version: "3.5"
+services:
+  akademie:
+    image: mindhochschulnetzwerk/akademie
+    restart: unless-stopped
+    environment:
+      - DOMAINNAME
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=traefik
+      - traefik.http.routers.akademie.entrypoints=websecure
+      - traefik.http.routers.akademie.rule=Host(`akademie.${DOMAINNAME}`) || Host(`www.mind-akademie.de`) || Host(`mind-akademie.de`)
+      - traefik.http.routers.akademie.tls=true
+      - traefik.http.routers.akademie.tls.certresolver=myresolver
+      - traefik.http.routers.akademie.middlewares=secheader@file
+    networks:
+      - akademie
+      - traefik
+
+networks:
+  akademie:
+    name: akademie
+  traefik:
+    name: traefik
+    external: true

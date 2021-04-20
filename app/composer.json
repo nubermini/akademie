@@ -1,0 +1,14 @@
+{
+    "name": "mhn/akademie",
+    "description": "MA-Webseite",
+    "type": "project",
+    "require": {
+        "php": "^7.0",
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "MHN\\Akademie\\": "Classes/"
+        }
+    }
+}
