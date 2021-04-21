@@ -4,7 +4,7 @@ namespace MHN\Akademie;
 
 class API
 {
-    const REFERENTENTOOL_API_URL = 'http://referenten/api/ma.php';
+    const REFERENTENTOOL_API_URL = 'http://referenten:8080/api/ma.php';
 
     public static function erfrageBeitraegeVonRT ($jahr, $event) {
 
