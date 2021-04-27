@@ -2,12 +2,20 @@
 
 Die MA-Webseite (www.mind-akademie.de)
 
-## Container lokal bauen und starten
+### Target "dev" (Entwicklung)
 
-    $ make image
+    $ composer install -d app
+    $ make quick-image
     $ make dev
 
 Die Seite ist dann im Browser unter [https://akademie.docker.localhost/](https://akademie.docker.localhost/) erreichbar. Die Sicherheitswarnung wegen des Zertifikates kann weggeklickt werden.
+
+* Benutzername: Webteam
+* Passwort: webteam1
+
+### Target "prod" (Production)
+
+    $ make prod
 
 ### Schnittstelle zum Referententool
 

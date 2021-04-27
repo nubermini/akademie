@@ -10,6 +10,5 @@ RUN set -ex \
     php7-session \
     php7-curl \
   && mkdir /var/www/vendor && chown www-data:www-data /var/www/vendor \
-  && cd /var/www \
-  && su www-data -s /bin/sh -c "composer install --optimize-autoloader --no-dev --no-interaction --no-progress" \
+  && su www-data -s /bin/sh -c "composer install -d /var/www --optimize-autoloader --no-dev --no-interaction --no-progress --no-cache" \
   && chown -R nobody:nobody /var/www
