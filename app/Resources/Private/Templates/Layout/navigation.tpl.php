@@ -13,8 +13,9 @@ namespace MHN\Akademie;
                 'symposium_programm' => ['symposium_programm.php', 'Programm', 'calendar'],
                 'symposium_historie' => ['symposium_historie.php', 'Vergangene Symposien', 'calendar']
             ]],
-        'impressum' => ['https://www.mind-hochschul-netzwerk.de/index.php/impressum/', 'Impressum', 'globe'],
-        'datenschutz' => ['https://www.mind-hochschul-netzwerk.de/index.php/datenschutz/', 'Datenschutzerklärung', 'globe'],
+        'moodle' => ['https://www.' . getenv('DOMAINNAME'), 'Mind-Hochschul-Netzwerk', 'home'],
+        'datenschutz' => ['https://www.' . getenv('DOMAINNAME') . '/mod/page/view.php?id=12', 'Datenschutz', 'paragraph'],
+        'impressum' => ['https://www.' . getenv('DOMAINNAME') . '/mod/page/view.php?id=5', 'Impressum', 'globe'],
     ];
 
 ?>
