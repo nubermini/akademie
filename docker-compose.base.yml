@@ -9,7 +9,7 @@ services:
       - traefik.enable=true
       - traefik.docker.network=traefik
       - traefik.http.routers.akademie.entrypoints=websecure
-      - traefik.http.routers.akademie.rule=Host(`akademie.${DOMAINNAME}`) ${ADDITIONAL_HOST_RULES}
+      - traefik.http.routers.akademie.rule=${HOST_RULE}
       - traefik.http.routers.akademie.middlewares=secheader@file
     networks:
       - akademie
