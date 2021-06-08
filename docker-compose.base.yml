@@ -3,8 +3,6 @@ services:
   akademie:
     image: mindhochschulnetzwerk/akademie
     restart: unless-stopped
-    environment:
-      - DOMAINNAME
     labels:
       - traefik.enable=true
       - traefik.docker.network=traefik
