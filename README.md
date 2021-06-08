@@ -2,6 +2,10 @@
 
 Die MA-Webseite (www.mind-akademie.de)
 
+## Starten
+
+[php-base](https://github.com/Mind-Hochschul-Netzwerk/php-base) muss bereits gebaut sein.
+
 ### Target "dev" (Entwicklung)
 
     $ composer install -d app
