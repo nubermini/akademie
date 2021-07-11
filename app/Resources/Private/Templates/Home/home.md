@@ -1,14 +1,11 @@
 # Überblick
 
-Das [Mind-Hochschul-Netzwerk](https://mind-hochschul-netzwerk.de/) veranstaltet vom 23.-26.09.2021 in Mannheim die 19. Mind-Akademie, diesmal unter dem Leitthema "Wandel".
+Das [Mind-Hochschul-Netzwerk](https://mind-hochschul-netzwerk.de/) veranstaltet vom 23. bis 26. September 2021 in Mannheim die 19. Mind-Akademie, diesmal unter dem Leitthema "Wandel".
 
-Aufgrund von Corona haben wir alle physischen Veranstaltungen und Seminare im vergangenen Jahr verschoben. Wir sind zuversichtlich, euch im Laufe dieses Jahres wieder zu unseren gewohnten Veranstaltungen einladen zu können. Der Termin der Mind-Akademie ist vom 23. bis 26. September 2021. Andere Termine und Veranstaltungen werden hier veröffentlicht, sobald die Details feststehen.
+Ob Raumsonden, Schiffssicherheit, Sportgeschichte, Arktismissionen, Elektromobilität, Genmigration, Jugendkultur, künstliche Intelligenz, Teilchenphysik, Schokoladenpapier oder Schafzucht, um nur ein paar Appetithäppchen zu nennen – wie immer ist für jeden etwas dabei. Zusammen mit der Jugendherberge Mannheim sorgt das Orgateam dafür, dass euch auch 2021 wieder eine sichere und sicher großartige Akademie erwartet. Freut euch auf bis zu fünf Vorträge und Workshops gleichzeitig.
 
-Wir erwarten wieder über 250 Teilnehmer aus allen akademischen Disziplinen, die sich gemeinsam in Vorträgen und Workshops aus Natur- und Geisteswissenschaften, Wirtschaft und Technik, Theorie und Praxis mit dem Leitthema auseinandersetzen werden.
+Mehr Informationen zur Akademie findet ihr [in unseren FAQ](https://www.mind-akademie.de/faq.php) und [auf unserer Programmseite](https://www.mind-akademie.de/programm.php). Die Programmseite wird laufend aktualisiert.
 
-Die Anmeldung beginnt voraussichtlich Mitte 2021.
+Die Anmeldung wird demnächst freigeschaltet.
 
-Wir freuen uns auf Euch und eine gelungene Akademie!
-
-Euer Orgateam
-
+Die Mind-Akademie ist die jährliche Hauptversammlung des Mind-Hochschul-Netzwerks, bei der jedes Jahr etwa 250 engagierte und interessierte Menschen aus allen akademischen Disziplinen zusammenkommen und sich gemeinsam in Vorträgen und Workshops aus Natur- und Geisteswissenschaften, Wirtschaft und Technik, Theorie und Praxis mit dem Leitthema auseinandersetzen. Im Gegensatz zum Jahrestreffen unseres Muttervereins Mensa in Deutschland und den Mensa-Youth-Camps liegt der Focus des Programms bei der Mind-Akademie auf den über fünfzig verschiedenen Vorträgen aus allen akademischen und manchmal auch unakademischen Disziplinen. Zeit zum persönlichen Austausch gibt es zwischen den Vortragsslots, im Rahmenprogramm aus Tanz, Unterhaltung und Sport, beim Essen und in den Abendstunden, die viele gerne in der Lounge und im Spielezimmer verbringen.

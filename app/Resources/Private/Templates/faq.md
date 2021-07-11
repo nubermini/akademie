@@ -20,7 +20,16 @@ Aufgrund der Corona-Pandemie hat die Akademieleitung gemeinsam mit dem Orgateam 
 
 ### <a name="corona-2021"></a> Wird die Akademie 2021 dann auch wirklich stattfinden?
 
-Wir sind sehr zuversichtlich, dass wir die Akademie 2021 wie gewohnt durchführen können. Wenn nötig, werden wir uns zu gegebener Zeit Hygienemaßnahmen überlegen und umsetzen. Eine erneute Absage kommt für uns nicht in Frage. 
+Wir sind sehr zuversichtlich, dass wir die Akademie 2021 wie gewohnt durchführen können. Eine erneute Absage kommt für uns nicht in Frage. 
+
+### <a name= "corona-maßnahmen"></a>Gibt es ein Hygienekonzept? Welche
+Vorschriften müssen beachtet werden?
+ 
+Für uns maßgeblich sind die gesetzlichen Regelungen des Bundes und des Landes Baden-Württemberg sowie die Vorgaben der Jugendherberge. Momentan ändert sich die Situation nahezu wöchentlich und damit auch die verbundenen Vorschriften. Wir haben uns deswegen entschieden, unser endgültiges Hygienekonzept erst Anfang September zu veröffentlichen, damit wir niemanden mit vorläufigen und später möglicherweise überholten Informationen verwirren. Dass es ein Konzept geben wird, ist jedoch sicher, und es werden auch Vorschriften zu beachten sein. 
+
+Es ist derzeit noch nicht abzusehen, ob die Teilnahme für alle möglich ist oder nur für Geimpfte, Genesene und aktuell Getestete. Möglicherweise besteht in einigen Bereichen auch Maskenpflicht. Darüber solltet ihr euch klar sein. Das Orga-Team behält sich außerdem vor, kurzfristig auf oder vor der Akademie weitere verbindliche Regeln zu bestimmen. Dies gilt insbesondere, wenn ein Infektionsverdacht besteht oder sich ein hohes Risiko für bestimmte Teilnehmer(innen) abzeichnet. 
+
+Vorsorglich weisen wir auch daraufhin, dass wir unser Hygienekonzept, die gesetzlichen Regelungen und die Vorgaben der Jugendherberge durchsetzen müssen und auch werden, weil das sonst für das MHN und alle Beteiligtennegative Konsequenzen haben kann, die keiner von uns möchte.
 
 ## Anmeldung / Teilnahme
 
@@ -73,7 +82,7 @@ Am Mannheimer Hauptbahnhof halten die großen Fernzüge und Fernbuslinien. Er li
 
 Ihr dürft gerne eure Kinder mitbringen. Kinder von 0–6 Jahren können an der Akademie kostenlos teilnehmen. Für die Anmeldung von älteren, also bereits schulpflichtigen Kindern wende dich bitte an die [Teilnehmendenbetreuung](#kontakt), um eine individuelle Lösung zu finden.
 
-Es gibt eine kooperative Betreuung und einen eigenen Raum (Kinderlounge) für Kinder bis etwa 8 Jahre. Daniel Uthoff, Vater von drei Kindern, kümmert sich wie im letzten Jahr um die Vernetzung aller Eltern. Wenn ihr Interesse habt, euer Kind in der Betreuung unter- und euch selbst einzubringen, meldet euch bei Daniel [per Mail](mailto:mind-akademie.de@daniel.uthoff.eu) oder unter 01 74-3 13 83 24.
+Es gibt eine kooperative Betreuung und einen eigenen Raum (Kinderlounge) für Kinder bis etwa 8 Jahre. Daniel Uthoff, Vater von drei Kindern, kümmert sich wie beim letzten Mal um die Vernetzung aller Eltern. Wenn ihr Interesse habt, euer Kind in der Betreuung unter- und euch selbst einzubringen, meldet euch bei Daniel [per Mail](mailto:mind-akademie.de@daniel.uthoff.eu) oder unter 01 74-3 13 83 24.
  
 Ihr könnt eure Kinder auch in Vorträge mitnehmen, sofern der Referent oder die Referentin damit einverstanden ist und euer Kind sich ruhig verhält.
  
@@ -95,11 +104,11 @@ Grundsätzlich fällt eine Stornogebühr an. Mehr dazu findest du in der Veranst
 
 ### <a name="anmeldungsstart"></a>Wann startet die Anmeldung?
 
-Die Anmeldung beginnt Mitte des Jahres, voraussichtlich im Juni oder Juli. Mitglieder des [MHNs](https://mind-hochschul-netzwerk.de/index.php/home/) erhalten über einen Sondernewsletter Bescheid. Darüber hinaus wird die Anmeldung in der Regel auch über verschiedene Kanäle bei [Mensa in Deutschland e.V.](https://www.mensa.de/) bekannt gegeben. 
+Die Anmeldung beginnt Mitte des Jahres, voraussichtlich Anfang Juli. Mitglieder des [MHNs](https://mind-hochschul-netzwerk.de/index.php/home/) erhalten über einen Sondernewsletter Bescheid. Darüber hinaus wird die Anmeldung in der Regel auch über verschiedene Kanäle bei [Mensa in Deutschland e.V.](https://www.mensa.de/) bekannt gegeben. 
 
 ### <a name="f14"></a> Gibt es eine Teilnahmebescheinigung?
 
-Ja, jeder Teilnehmer wird wieder eine Teilnahmebescheinigung mit kurzer Programmbeschreibung erhalten. Die Teilnahmebescheinigung erhaltet ihr beim Check-In auf der Akademie. 
+Ja, alle Teilnehmer(innen) erhalten wieder eine Teilnahmebescheinigung mit kurzer Programmbeschreibung. Die Teilnahmebescheinigung erhaltet ihr beim Check-In auf der Akademie. 
 
 ## Teilnahmegebühren
 
@@ -117,7 +126,7 @@ Nein. Wenn du an der Mind-Akademie teilnehmen möchtest, auch wenn das nur für 
 
 ### <a name="rechnung"></a> Bekomme ich eine Rechnung für die Mind-Akademie?
 
-Ja, jeder Teilnehmer bekommt eine Rechnung. Die Rechnung wird per E-Mail versendet.
+Ja, alle Teilnehmer(innen) bekommen eine Rechnung. Die Rechnung wird per E-Mail versendet.
 
 ## Programm
 
@@ -143,7 +152,7 @@ Nach deiner Anmeldung erhältst du Zugriff auf unsere Teilnehmenden-Info. Außer
 
 Ersetze in der Adresse `beispiel@mind-akademie.de` bitte `beispiel` durch die entsprechende Bezeichnung:
 
-* für die Teilnehmerbetreuung: Ersetze `beispiel` durch `anmeldung`
+* für die Teilnehmendenbetreuung: Ersetze `beispiel` durch `anmeldung`
 * für das Programmteam: Ersetze `beispiel` durch `programm`
 * für die Gesamtleitung: Ersetze `beispiel` durch `akademieleitung`
 
@@ -162,7 +171,7 @@ erst vor Ort.
 
 ### <a name="einzelzimmer"></a> Kann ich auch ein Einzel- oder Doppelzimmer haben?
 
-Ja - wenn du bei der Anmeldung schnell genug bist. Es gibt nur ein beschränktes Kontingent an Plätzen. Anders als in früheren Jahren vergeben wir die Zimmer nicht mehr nach Bedürftigkeit. Das frühere Verfahren hat leider sehr viel Arbeit bei der ehrenamtlichen Teilnehmerbetreuung verursacht und war immer wieder eine Ursache für unerquickliche Mailwechsel.
+Ja - wenn du bei der Anmeldung schnell genug bist. Es gibt nur ein beschränktes Kontingent an Plätzen. Anders als in früheren Jahren vergeben wir die Zimmer nicht mehr nach Bedürftigkeit. Das frühere Verfahren hat leider sehr viel Arbeit bei der ehrenamtlichen Teilnehmendenbetreuung verursacht und war immer wieder eine Ursache für unerquickliche Mailwechsel.
 
 ### <a name="steuer"></a> Kann ich die Akademie von der Steuer absetzen?
 
@@ -172,6 +181,7 @@ Die Mind-Akademie kann als berufliche Fortbildungsveranstaltung steuerlich gelte
 
 ## <a name="aenderungen"></a> Änderungen an dieser Seite
 
+* v3.0-2021-07-11 - Änderungen zu: [Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?](#corona-maßnahmen)
 * v2.1-2020-11-24 - Änderungen zu: [Wird die Akademie 2021 dann auch wirklich stattfinden?](#corona-2021)
 * v2.0-2020-05-17 - Änderungen zu: [Warum wurde die Akademie 2020 abgesagt?](#corona) / [Wann startet die Akademie genau? Wann endet sie?](#zeit) / [Wie komme ich hin?](#anreise)
 * v1.0-2020-04-16 - Erste Veröffentlichung
