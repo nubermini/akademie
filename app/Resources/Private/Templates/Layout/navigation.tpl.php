@@ -13,7 +13,10 @@ namespace MHN\Akademie;
                 'symposium_programm' => ['symposium_programm.php', 'Programm', 'calendar'],
                 'symposium_historie' => ['symposium_historie.php', 'Vergangene Symposien', 'calendar']
             ]],
-        'moodle' => ['https://www.mind-hochschul-netzwerk.de', 'Mind-Hochschul-Netzwerk', 'home'],
+        'moodle' => ['https://www.mind-hochschul-netzwerk.de', 'Mind-Hochschul-Netzwerk', 'home',
+            [
+                'moodlekurs' => ['https://www.mind-hochschul-netzwerk.de/course/view.php?id=28', 'Interne Akademieseite', ''],
+            ]],
         'datenschutz' => ['https://www.mind-hochschul-netzwerk.de/mod/book/view.php?id=253&chapterid=4', 'Datenschutz', 'paragraph'],
         'impressum' => ['https://www.mind-hochschul-netzwerk.de/mod/book/view.php?id=253&chapterid=5', 'Impressum', 'globe'],
     ];

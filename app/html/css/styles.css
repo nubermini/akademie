@@ -409,16 +409,16 @@ a.header {
     font-size: 15px;
 }
 
-ul .submenu {
+li .submenu {
     visibility: hidden;
     height: 0;
     z-index: 1000;
 }
 
 /** Show the submenu on hover, focus ... **/
-ul:hover .submenu,
-ul:active .submenu,
-ul:focus .submenu,
+li:hover .submenu,
+li:active .submenu,
+li:focus .submenu,
 .submenu.open
 {
     visibility: visible;
