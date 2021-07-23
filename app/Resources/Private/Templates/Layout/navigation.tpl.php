@@ -7,6 +7,7 @@ namespace MHN\Akademie;
 //  Für die MA 2017 nicht relevant, da kein Programm vorhanden.
 //        'rahmenprogramm' => ['rahmenprogramm.php', 'Rahmenprogramm', 'calendar'],
         'faq' => ['faq.php', 'Häufige Fragen', 'plus'],
+        'anmeldung' => ['https://pretix.mind-hochschul-netzwerk.de/testorg/mind-akademie-2021/', 'Anmeldung', ''],
         'historie' => ['historie.php', 'Vergangene Akademien', 'calendar'],
         'symposium' => ['symposium.php', 'Symposium', 'calendar',
             [
