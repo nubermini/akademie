@@ -21,3 +21,9 @@ dev: .env check-traefik
 prod: image .env check-traefik
 	@echo "Starting Production Server"
 	docker-compose -f docker-compose.base.yml up -d --force-recreate
+
+shell:
+	docker-compose -f docker-compose.base.yml exec akademie sh
+
+logs:
+	docker-compose -f docker-compose.base.yml logs -f
