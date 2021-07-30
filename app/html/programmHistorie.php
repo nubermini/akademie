@@ -9,7 +9,7 @@ if(isset($_GET['y']) && ensure($_GET['y'],ENSURE_INT)) {
     $year = (int) date("Y");
 }
 
-while (!is_file('/var/www/html/Resources/Private/Templates/archiv/programm' . $year . '.tpl.php') && $year >= 2002) {
+while (!is_file('/var/www/Resources/Private/Templates/archiv/programm' . $year . '.tpl.php') && $year >= 2002) {
     --$year;
 }
 if ($year < 2002) {
