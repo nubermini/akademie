@@ -22,13 +22,17 @@ Aufgrund der Corona-Pandemie hat die Akademieleitung gemeinsam mit dem Orgateam 
 
 Wir sind sehr zuversichtlich, dass wir die Akademie 2021 wie gewohnt durchführen können. Eine erneute Absage kommt für uns nicht in Frage. 
 
-### <a name="corona-maßnahmen"></a> Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?
+## <a name="corona-maßnahmen"></a> Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden? 
 
-Für uns maßgeblich sind die gesetzlichen Regelungen des Bundes und des Landes Baden-Württemberg sowie die Vorgaben der Jugendherberge. Momentan ändert sich die Situation nahezu wöchentlich und damit auch die verbundenen Vorschriften. Wir haben uns deswegen entschieden, unser endgültiges Hygienekonzept erst Anfang September zu veröffentlichen, damit wir niemanden mit vorläufigen und später möglicherweise überholten Informationen verwirren. Dass es ein Konzept geben wird, ist jedoch sicher, und es werden auch Vorschriften zu beachten sein. 
+Für uns maßgeblich sind die gesetzlichen Regelungen des Bundes und des Landes Baden-Württemberg sowie die Vorgaben der Jugendherberge. An den Details arbeiten wir gerade noch. Sicher ist, dass die Teilnahme nur mit 3G möglich ist und eine Maskenpflicht in öffentlichen Bereichen bestehen wird. Weitere Regeln werden wir vor der Akademie veröffentlichen. 
 
-Es ist derzeit noch nicht abzusehen, ob die Teilnahme für alle möglich ist oder nur für Geimpfte, Genesene und aktuell Getestete. Möglicherweise besteht in einigen Bereichen auch Maskenpflicht. Darüber solltet ihr euch klar sein. Das Orga-Team behält sich außerdem vor, kurzfristig auf oder vor der Akademie weitere verbindliche Regeln zu bestimmen. Dies gilt insbesondere, wenn ein Infektionsverdacht besteht oder sich ein hohes Risiko für bestimmte Teilnehmer(innen) abzeichnet. 
+Das Orga-Team behält sich außerdem vor, kurzfristig auf oder vor der Akademie weitere verbindliche Regeln zu bestimmen. Dies gilt insbesondere, wenn ein Infektionsverdacht besteht oder sich ein hohes Risiko für bestimmte Teilnehmer(innen) abzeichnet. 
 
-Vorsorglich weisen wir auch daraufhin, dass wir unser Hygienekonzept, die gesetzlichen Regelungen und die Vorgaben der Jugendherberge durchsetzen müssen und auch werden, weil das sonst für das MHN und alle Beteiligtennegative Konsequenzen haben kann, die keiner von uns möchte.
+Vorsorglich weisen wir auch daraufhin, dass wir unser Hygienekonzept, die gesetzlichen Regelungen und die Vorgaben der Jugendherberge durchsetzen müssen und auch werden, weil das sonst für das MHN und alle Beteiligten negative Konsequenzen haben kann, die keiner von uns möchte. 
+
+### <a name="corona-storno"></a> Habe ich ein Sonderkündigungsrecht, wenn mir eure Corona-Regeln zu streng oder zu lasch sind? 
+
+Du kannst deine Teilnahme jederzeit zu den üblichen Konditionen stornieren. Ein Sonderkündigungsrecht gibt es hier rechtlich nicht. Die Akademie wurde so organisiert, dass sie die gesetzlichen Vorgaben einhält; dennoch kannst du dich natürlich eigenverantwortlich dafür entscheiden, nicht daran teilzunehmen. Wir haben Verständnis dafür, dass die Situation für alle Beteiligten schwierig ist und bitten auch dich um Verständnis. Solltest du zu der Entscheidung gelangen, lieber dieses Jahr doch noch nicht teilzunehmen, dann freuen wir uns darauf, dich auf einer der nächsten MHN-Veranstaltungen zu treffen.
 
 ## Anmeldung / Teilnahme
 
@@ -180,8 +184,8 @@ Die Mind-Akademie kann als berufliche Fortbildungsveranstaltung steuerlich gelte
 
 ## <a name="aenderungen"></a> Änderungen an dieser Seite
 
+* v3.1-2021-09-04 - Änderungen zu: [Habe ich ein Sonderkündigungsrecht, wenn mir eure Corona-Regeln zu streng oder zu lasch sind?](#corona-storno) / [Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?](#corona-maßnahmen)
 * v3.0-2021-07-11 - Änderungen zu: [Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?](#corona-maßnahmen)
 * v2.1-2020-11-24 - Änderungen zu: [Wird die Akademie 2021 dann auch wirklich stattfinden?](#corona-2021)
 * v2.0-2020-05-17 - Änderungen zu: [Warum wurde die Akademie 2020 abgesagt?](#corona) / [Wann startet die Akademie genau? Wann endet sie?](#zeit) / [Wie komme ich hin?](#anreise)
 * v1.0-2020-04-16 - Erste Veröffentlichung
-
