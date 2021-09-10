@@ -188,6 +188,7 @@ Die Mind-Akademie kann als berufliche Fortbildungsveranstaltung steuerlich gelte
 
 ## <a name="aenderungen"></a> Änderungen an dieser Seite
 
+* C3.2-2021-09-10 - Änderungen zu: [Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?](#corona-maßnahmen)
 * v3.1-2021-09-04 - Änderungen zu: [Habe ich ein Sonderkündigungsrecht, wenn mir eure Corona-Regeln zu streng oder zu lasch sind?](#corona-storno) / [Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?](#corona-maßnahmen)
 * v3.0-2021-07-11 - Änderungen zu: [Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden?](#corona-maßnahmen)
 * v2.1-2020-11-24 - Änderungen zu: [Wird die Akademie 2021 dann auch wirklich stattfinden?](#corona-2021)
