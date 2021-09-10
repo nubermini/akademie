@@ -24,7 +24,11 @@ Wir sind sehr zuversichtlich, dass wir die Akademie 2021 wie gewohnt durchführe
 
 ### <a name="corona-maßnahmen"></a> Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden? 
 
-Für uns maßgeblich sind die gesetzlichen Regelungen des Bundes und des Landes Baden-Württemberg sowie die Vorgaben der Jugendherberge. An den Details arbeiten wir gerade noch. Sicher ist, dass die Teilnahme nur mit 3G möglich ist und eine Maskenpflicht in öffentlichen Bereichen bestehen wird. Weitere Regeln werden wir vor der Akademie veröffentlichen. 
+Für uns maßgeblich sind die gesetzlichen Regelungen des Bundes und des Landes Baden-Württemberg sowie die Vorgaben der Jugendherberge. An den Details arbeiten wir gerade noch. 
+
+Sicher ist, dass die Teilnahme nur mit 3G möglich ist. [Geplant sind außerdem weitere Verschärfungen: Ab  einem 7-Tage-Hospitalisierungsinzidenz von über 8 oder mehr als 250 Coronakranken auf den Intensivstationen müssen alle, die nicht geimpft oder genesen sind, voraussichtlich einen PCR-Test vorlegen. Bei einem 7-Tage-Hospitalisierungsinzidenz von über 12 oder mehr als 390  Coronakranken auf den Intensivstationen gilt 2G - das bedeutet, Menschen, die nicht geimpft oder genesen sind, können nicht mehr teilnehmen. Ausnahmen wird es für Personen geben, die sich aus medizinischen Gründen nicht impfen lassen können.](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/ueberarbeitete-corona-verordnung-soll-kommende-woche-in-kraft-treten-1/)
+
+Sicher ist auch, dass eine Maskenpflicht in öffentlichen Bereichen bestehen wird. Weitere Regeln werden wir vor der Akademie veröffentlichen.
 
 Das Orga-Team behält sich außerdem vor, kurzfristig auf oder vor der Akademie weitere verbindliche Regeln zu bestimmen. Dies gilt insbesondere, wenn ein Infektionsverdacht besteht oder sich ein hohes Risiko für bestimmte Teilnehmer(innen) abzeichnet. 
 
