@@ -3,12 +3,12 @@ services:
   akademie:
     image: mindhochschulnetzwerk/${SERVICENAME}
     restart: unless-stopped
+    container_name: ${SERVICENAME}
     labels:
       - traefik.enable=true
       - traefik.docker.network=traefik
       - traefik.http.routers.${SERVICENAME}.entrypoints=websecure
       - traefik.http.routers.${SERVICENAME}.rule=${HOST_RULE}
-      - traefik.http.routers.${SERVICENAME}.middlewares=secheader@file
     networks:
       - ${SERVICENAME}
       - traefik
