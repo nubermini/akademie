@@ -22,7 +22,7 @@ Aufgrund der Corona-Pandemie hat die Akademieleitung gemeinsam mit dem Orgateam 
 
 Wir sind sehr zuversichtlich, dass wir die Akademie 2021 wie gewohnt durchführen können. Eine erneute Absage kommt für uns nicht in Frage. 
 
-## <a name="corona-maßnahmen"></a> Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden? 
+### <a name="corona-maßnahmen"></a> Gibt es ein Hygienekonzept? Welche Vorschriften müssen beachtet werden? 
 
 Für uns maßgeblich sind die gesetzlichen Regelungen des Bundes und des Landes Baden-Württemberg sowie die Vorgaben der Jugendherberge. An den Details arbeiten wir gerade noch. Sicher ist, dass die Teilnahme nur mit 3G möglich ist und eine Maskenpflicht in öffentlichen Bereichen bestehen wird. Weitere Regeln werden wir vor der Akademie veröffentlichen. 
 
