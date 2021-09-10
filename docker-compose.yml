@@ -1,23 +1,23 @@
 version: "3.5"
 services:
   akademie:
-    image: mindhochschulnetzwerk/akademie
+    image: mindhochschulnetzwerk/${SERVICENAME}
     restart: unless-stopped
     labels:
       - traefik.enable=true
       - traefik.docker.network=traefik
-      - traefik.http.routers.akademie.entrypoints=websecure
-      - traefik.http.routers.akademie.rule=${HOST_RULE}
-      - traefik.http.routers.akademie.middlewares=secheader@file
+      - traefik.http.routers.${SERVICENAME}.entrypoints=websecure
+      - traefik.http.routers.${SERVICENAME}.rule=${HOST_RULE}
+      - traefik.http.routers.${SERVICENAME}.middlewares=secheader@file
     networks:
-      - akademie
+      - ${SERVICENAME}
       - traefik
     volumes:
       - "./teilnehmerinfos.md:/var/www/Resources/Private/Templates/Teilnehmerinfos/infos.md"
 
 networks:
   akademie:
-    name: akademie
+    name: ${SERVICENAME}
   traefik:
     name: traefik
     external: true
