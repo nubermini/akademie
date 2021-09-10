@@ -9,7 +9,7 @@ Die MA-Webseite (www.mind-akademie.de)
 ### Target "dev" (Entwicklung)
 
     $ composer install -d app
-    $ make quick-image
+    $ make rebuild
     $ make dev
 
 Die Seite ist dann im Browser unter [https://akademie.docker.localhost/](https://akademie.docker.localhost/) erreichbar. Die Sicherheitswarnung wegen des Zertifikates kann weggeklickt werden.
