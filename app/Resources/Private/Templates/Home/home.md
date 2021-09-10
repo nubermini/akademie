@@ -6,7 +6,7 @@ Ob Raumsonden, Schiffssicherheit, Sportgeschichte, Arktismissionen, Elektromobil
 
 Mehr Informationen zur Akademie findet ihr [in unseren FAQ](https://www.mind-akademie.de/faq.php) und [auf unserer Programmseite](https://www.mind-akademie.de/programm.php). Die Programmseite wird laufend aktualisiert.
 
-Die Anmeldung [(findest du hier.](https://pretix.mind-hochschul-netzwerk.de/testorg/mind-akademie-2021/)
+Die Anmeldung [findest du hier.](https://pretix.mind-hochschul-netzwerk.de/testorg/mind-akademie-2021/)
 
 Die Mind-Akademie ist die jährliche Hauptversammlung des Mind-Hochschul-Netzwerks, bei der jedes Jahr etwa 250 engagierte und interessierte Menschen aus allen akademischen Disziplinen zusammenkommen und sich gemeinsam in Vorträgen und Workshops aus Natur- und Geisteswissenschaften, Wirtschaft und Technik, Theorie und Praxis mit dem Leitthema auseinandersetzen. Im Gegensatz zum Jahrestreffen unseres Muttervereins Mensa in Deutschland und den Mensa-Youth-Camps liegt der Focus des Programms bei der Mind-Akademie auf den über fünfzig verschiedenen Vorträgen aus allen akademischen und manchmal auch unakademischen Disziplinen. Zeit zum persönlichen Austausch gibt es zwischen den Vortragsslots, im Rahmenprogramm aus Tanz, Unterhaltung und Sport, beim Essen und in den Abendstunden, die viele gerne in der Lounge und im Spielezimmer verbringen.
 
