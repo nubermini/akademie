@@ -1,6 +1,8 @@
 <?php
 namespace MHN\Akademie;
 
+const PATH_TO_PROGRAMM_JSON = __DIR__ . '/../Resources/Private/programm.json';
+
 require_once '../lib/base.inc.php';
 
 // GET[y]: Jahr der Akademie (mindestens 2017, default ist das aktuelle Jahr)
@@ -26,11 +28,8 @@ if (!is_file($cachePath) || time() - filemtime($cachePath) > 180) {
 $beitraege = is_file($cachePath) ? json_decode(file_get_contents($cachePath), true) : [];
 Tpl::set('beitraege', $beitraege);
 
-// PDF im Ordner assets suchen. Dateiname: "Programmplan $year.pdf".
-$pdfFile = 'Programmplan ' . $year . '.pdf';
-if (is_file(__DIR__ . '/assets/' . $pdfFile)) {
-    Tpl::set('pdfFile', $pdfFile);
-}
+$pdfFile = json_decode(file_get_contents(PATH_TO_PROGRAMM_JSON), true)[$year] ?? null;
+Tpl::set('pdfFile', $pdfFile);
 
 Tpl::render('programm');
 
