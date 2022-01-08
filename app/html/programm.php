@@ -5,8 +5,8 @@ const PATH_TO_PROGRAMM_JSON = __DIR__ . '/../Resources/Private/programm.json';
 
 require_once '../lib/base.inc.php';
 
-// GET[y]: Jahr der Akademie (mindestens 2017, default ist das aktuelle Jahr)
-ensure($_GET['y'], ENSURE_INT_GTEQ, 2017, (int)date('Y'));
+// GET[y]: Jahr der Akademie (mindestens 2017, default ist das aktuelle Jahr bzw. vor Juni das Vorjahr)
+ensure($_GET['y'], ENSURE_INT_GTEQ, 2017, (int)date('Y') - ((int)date('m') < 6 ? 1 : 0));
 
 $year = $_GET['y'];
 
