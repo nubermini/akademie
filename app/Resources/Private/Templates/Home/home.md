@@ -4,7 +4,7 @@ Das [Mind-Hochschul-Netzwerk](https://mind-hochschul-netzwerk.de/) veranstaltet 
 
 Ob Schlafforschung, Seiltechnik, internationale Verträge, Metallcluster aus der anorganischen Molekülchemie, deutsche Exporterfolgsstorys oder Wundverbände, um nur ein paar Appetithäppchen zu nennen – wie immer ist für jeden etwas dabei. Zusammen mit der Jugendherberge Mannheim sorgt das Orgateam dafür, dass euch auch 2022 wieder eine sichere und sicher großartige Akademie erwartet. Freut euch auf bis zu vier Vorträge und Workshops von hochkarätigen Referent\*innen gleichzeitig! Dazu kommt erstmals die neue Kategorie der MHN-Kurzvorträge, in der wir uns auf unsere Wurzeln als studentisches Mitmachnetzwerk besinnen und die Bühne frei machen für Jung-Akademiker\*innen, die das Thema ihrer Bachelorarbeit oder ihres letzten Referats endlich mal vor einem externen Publikum präsentieren möchten.
 
-Erste Abstracts könnt ihr ab Mai erwarten. Bis dahin könnt ihr euch einen Eindruck von unserem vielfältigen [Programm aus den Vorjahren](https://www.mind-akademie.de/programm.php?y=2021) verschaffen.
+Erste Abstracts für das Programm 2022 findet ihr unter dem [Menüpunkt Programm](https://www.mind-akademie.de/programm.php?y=2022). Neue Einträge werden ständig eingepflegt. Die Anmeldung zur Mind-Akademie 2022 ist ab Ende Juli möglich.
 
 Mehr Informationen zur Akademie findet ihr [in unseren FAQ](https://www.mind-akademie.de/faq.php).
 
