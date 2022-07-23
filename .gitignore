@@ -2,3 +2,4 @@
 /app/vendor/
 .env
 teilnehmerinfos.md
+.vscode
