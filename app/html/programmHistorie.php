@@ -13,7 +13,7 @@ while (!is_file('/var/www/Resources/Private/Templates/archiv/programm' . $year .
     --$year;
 }
 if ($year < 2002) {
-    throw new \DomainException('Ungültiger Wert für $year: ' . $year, 1504629926);
+    die('Ungültiges Jahr');
 }
 
 Tpl::set('htmlTitle', 'Programm ' . $year);
