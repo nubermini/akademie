@@ -13,5 +13,3 @@ Die Mind-Akademie ist die jährliche Hauptversammlung des Mind-Hochschul-Netzwer
 Die Mind-Akademie 2022 steht unter der Schirmherrschaft der Baden-Württembergischen Kultusministerin Theresa Schopper.
 
 <!-- Mehr Informationen zur Akademie findet ihr und [auf unserer Programmseite](https://www.mind-akademie.de/programm.php). Die Programmseite wird laufend aktualisiert. -->
-
-<!-- Die Anmeldung  -->
