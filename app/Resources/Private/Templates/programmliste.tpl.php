@@ -1,8 +1,10 @@
 <?php
 function makeUrlsClickable($html) {
     return preg_replace_callback('/https?:\/\/\S+|www\.\S+?\.\S+/', function ($matches) {
-        $url = preg_match('/^https?:\/\//', $matches[0]) ? $matches[0] : ('https://' . $matches[0]);
-        return '<a href="' . $url . '">' . $matches[0] . '</a>';
+        preg_match('/^(.+?)([\.\)\?\!]*)$/', $matches[0], $m);
+        [$url, $end] = [$m[1], $m[2]];
+        $fullUrl = preg_match('/^https?:\/\//', $url) ? $url : ('https://' . $url);
+        return '<a href="' . $fullUrl . '">' . $url . '</a>' . $end;
     }, $html);
 }
 ?>
