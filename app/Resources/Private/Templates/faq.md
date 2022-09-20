@@ -58,6 +58,10 @@ Am Mannheimer Hauptbahnhof halten die großen Fernzüge und Fernbuslinien. Er li
 
 **Von der A61:** Abfahrt 60 Kreuz Ludwigshafen, auf der A650 Richtung Ludwigshafen fahren, bis du auf die B37 gelangst, dann über den Rhein fahren (große Brücke), rechts halten und auf die B36 Richtung Schwetzingen/Heidelberg. Gleich die 1. Abfahrt Lindenhof nach rechts von der Bundesstraße weg nehmen, 1. Straße rechts, nächste links, dem Straßenverlauf folgen bis zur Weggabelung, dort rechts hinunter zum Rheinufer und nochmals rechts abbiegen. Nach ca. 200&#8239;m findest du die Jugendherberge auf der rechten Seite.
 
+
+### <a name="hunde"></a> Kann ich meinen Hund mitbringen?
+Nein. Hund sind in der Jugendherberge nicht erlaubt.
+
 ### <a name="kinder"></a> Kann ich meine Kinder mitbringen?
 Ihr dürft gerne eure Kinder mitbringen. Kinder von 0–6 Jahren können an der Akademie kostenlos teilnehmen. Für die Anmeldung von älteren, also bereits schulpflichtigen Kindern wende dich bitte an die [Teilnehmendenbetreuung](#kontakt), um eine individuelle Lösung zu finden.
 
@@ -100,24 +104,27 @@ Nein. Wenn du an der Mind-Akademie teilnehmen möchtest, auch wenn das nur für 
 Ja, alle Teilnehmer:innen bekommen eine Rechnung. Die Rechnung wird per E-Mail versendet.
 
 ## Programm
-### <a name="programm"></a> Wo finde ich Informationen über die Vorträge und Workshops?
-Informationen zu unserem Referentinnen und Referenten veröffentlichen wir im Laufe der nächsten Wochen und Monate nach und nach unter [„Programm“ auf dieser Website.](https://www.mind-akademie.de/programm.php) Dort wird vor der Akademie (ca. 2 Wochen) auch Raum und Zeit des Vortrags bekannt gegeben. Aus verschiedenen Gründen kann es aber bis zuletzt immer noch zu Verschiebungen oder Ausfällen kommen. Aktuelle Informationen dazu erhältst du dann direkt auf der Akademie.
-
+### <a name="programm"></a> Wo finde ich Informationen über die Vorträge und Workshops? Muss ich mich für die einzelnen Vorträge und Workshops anmelden?
+Abstracts und Kurzbiographien unserer Referentinnen und Referenten sowie den Programmplan mit Räumen und Zeiten findest du unter [„Programm“ auf dieser Website.](https://www.mind-akademie.de/programm.php) Aus verschiedenen Gründen kann es bis zuletzt, also auch während der Akademie, immer noch zu Verschiebungen oder Ausfällen kommen, die auf dem großen Programmplan im Foyer der Jugendherberge bekanntgegeben werden.
+Während du zu den Vorträgen einfach spontan gehen kannst, solange noch Platz im Raum ist, musst du dich für die Workshops anmelden, indem du dich in die auf im Foyer ausgehängten Listen einträgst.
 
 ### <a name="kurzvorträge"></a> Was ist der 2022 neue Punkt „MHN-Kurzvorträge“?
 Neben weltklasse Forscher:innen wollen wir auch denjenigen einen Platz im Programm bieten, die das noch werden wollen! 2022 besinnen wir uns auf unsere Wurzeln als studentisches Mitmachnetzwerk zurück und haben unter dem Titel „MHN-Kurzvorträge“ extra Slots für Jung-Akademiker*innen reserviert, in denen ihr das Thema eurer Bachelorarbeit oder eures letzten coolen Referats endlich mal einem externen Publikum vorstellen könnt! Zwanzig Minuten lang gehört das Mikro euch und danach habt ihr noch weitere zehn Minuten, um euch den Fragen des Publikums zu stellen – die gemäß der „MHN-Kurzvorträge“-Definition wohlwollender ausfallen.
-
 
 ### <a name="mitmachen"></a> Ich möchte einen MHN-Kurzvortrag halten oder etwas zum Bunten Abend beitragen. Wie melde ich mich dafür an?
 Bei der Anmeldung zur Akademie kannst du einfach ein entsprechendes Kästchen anklicken und wirst dann von der Koordinatorin des Bunten Abends bzw. dem Programmteamleiter zu weiteren Details kontaktiert.
 
 ### <a name="drumherum"></a> Was wird auf der Akademie neben dem Programm geboten?
-Vor allem viele Gespräche mit interessanten Menschen! Die findet man abends im Foyer der Jugendherberge oder in der Lounge, einem gemütlichen Raum mit Luftmatratzen, Sofas, Decken und Kissen. Freunde von Brett- und Rollenspielen treffen sich im Spielezimmer, Leseratten versorgen sich am Büchertauschtisch mit neuem Stoff. Beim Bunten Abend zeigen die Teilnehmer:innen, was sie können, und führen Musik, Tanz, Improvisation und anderes mehr auf.
-
+Vor allem viele Gespräche mit interessanten Menschen! Die findet man abends im Foyer der Jugendherberge oder in der Lounge, einem gemütlichen Raum mit Luftmatratzen, Sofas, Decken und Kissen. Freunde von Brett- und Rollenspielen treffen sich im Spielezimmer, Leseratten versorgen sich am Büchertauschtisch und beim Bücherschaulaufen mit neuem Stoff. Beim Bunten Abend zeigen die Teilnehmer:innen, was sie können, und führen Musik, Tanz, Improvisation und anderes mehr auf.
 
 #### <a name="kunstausstellung"></a> MHN-Kunstausstellung
-Auch die 8. MHN-Kunstausstellung steht unter dem Motto „Verbindungen“. Daher gibt es in diesem Jahr keine Ausstellung von Einzelwerken, sondern wir freuen uns auf fertige und unvollendete plastische Schöpfungen und spannende Gegenstände, die wir gemeinsam zu einem großen Gesamtkunstwerk verbinden können.
+Ja. Auch die 8. MHN-Kunstausstellung steht unter dem Motto „Verbindungen“. Daher gibt es in diesem Jahr keine Ausstellung von Einzelwerken, sondern wir freuen uns auf fertige und unvollendete plastische Schöpfungen und spannende Gegenstände, die wir gemeinsam zu einem großen Gesamtkunstwerk verbinden können.
 
+#### <a name="buecher"></a> Bücherschaulaufen und Büchertauschtisch
+Du hast ein Buch gelesen, das dir besonders gut gefallen hat und das du weiterempfehlen möchtest? Hier kannst du das tun. Es ist alles erlaubt, was interessiert: hochgeistiges Sachbuch, fesselnder Krimi oder Kinderbuch. Eine Unterkategorie des Bücherschaulaufens ist das Anti-Bücherschaulaufen: Du hast ein bekanntes Buch gelesen, fandest es aber so einen richtigen Griff ins Klo? Dann kannst du es hier zerreißen, um andere Menschen davor zu bewahren, die Zeit mit dem Buch zu verschwenden. Wie du dich als Bücherschauläufer:in anmelden kannst, liest du nach der Anmeldung zur Akademie in den Teilnehmenden-Infos. Zum Büchertauschtisch kannst du übrigens nicht nur Bücher mitbringen, sondern auch andere Sachen, die du eintauschen möchtest wie CDs, DVDs, Spiele.
+
+#### <a name="rahmenprogramm"></a> Rahmenprogramm
+Zusätzlich zum (wissenschaftlichen) Vortrags- und Workshopprogramm mit Bezug zum Leitthema gibt es auf der Akademie auch ein Rahmenprogramm, während dem man die Stadt, andere Teilnehmende oder auch sich selbst kennenlernen kann. Das Rahmenprogramm lebt von den Ideen und Beiträgen der Teilnehmenden. Wie du das Rahmenprogramm z. B. mit einem Sportangebot bereichern und wie du teilnehmen kannst, liest du nach der Anmeldung in den Teilnehmenden-Infos.
 
 ## Sonstiges
 ### <a name="teilnehmerinfos"></a>Wann und wo bekomme ich weitere Informationen zur Akademie?
@@ -135,13 +142,17 @@ Ersetze in der Adresse `beispiel@mind-akademie.de` bitte `beispiel` durch die en
 
 Bettwäsche stellt die Jugendherberge zur Verfügung. Handtücher musst du selbst mitbringen. Auch Hausschuhe sind empfehlenswert.
 
+### <a name="zimmer2"></a> Wie viele Leute sind in einem Mehrbettzimmer?
+
+Die Mehrbettzimmer haben i. d. R. vier Betten. Meistens sind alle belegt.
+
 ### <a name="zimmer"></a> Ich möchte unbedingt mit jemandem bestimmten auf ein Zimmer, geht das?
 
 Schreibt euren Wunsch bei der Anmeldung ins Kommentarfeld. Wir versuchen solche Wünsche bei der Zimmereinteilung zu berücksichtigen, können dies aber nicht garantieren. Die endgültige Zimmereinteilung erfährst du übrigens wegen des Verwaltungsaufwandes erst vor Ort.
 
 ### <a name="einzelzimmer"></a> Kann ich auch ein Einzel- oder Doppelzimmer haben?
 
-Ja – wenn du bei der Anmeldung schnell genug bist. Es gibt nur ein beschränktes Kontingent an Plätzen. Anders als in früheren Jahren vergeben wir die Zimmer nicht mehr nach Bedürftigkeit. Das frühere Verfahren hat leider sehr viel Arbeit bei der ehrenamtlichen Teilnehmendenbetreuung verursacht und war immer wieder eine Ursache für unerquickliche Mailwechsel.
+Ja – wenn du bei der Anmeldung schnell genug bist. Es gibt nur ein beschränktes Kontingent an Plätzen. Anders als in früheren Jahren vergeben wir die Zimmer nicht mehr nach Bedürftigkeit. Das frühere Verfahren hat leider sehr viel Arbeit bei der ehrenamtlichen Teilnehmendenbetreuung verursacht und war immer wieder eine Ursache für unerquickliche Mailwechsel. Für die Akademie 2022 sind die Einzel- und Doppelzimmer ausgebucht. Es gibt eine Warteliste, die aber auch schon sehr lang ist.
 
 ### <a name="steuer"></a> Kann ich die Akademie von der Steuer absetzen?
 
@@ -149,11 +160,13 @@ Die Mind-Akademie kann als berufliche Fortbildungsveranstaltung steuerlich gelte
 
 ### <a name="bildungsurlaub"></a> Kann ich für die Mind-Akademie Bildungsurlaub beantragen?
 
-Bisher nicht. Wir arbeiten daran eine Verrechnung der Mind-Akademie 2022 als Bildungsurlaub zu ermöglichen.
+Bisher nicht. Wir arbeiten daran, eine Verrechnung der Mind-Akademie 2023 als Bildungsurlaub zu ermöglichen.
 
 <!-- end contents -->
 
 ## <a name="aenderungen"></a> Änderungen an dieser Seite
 
-* v1.1-2022-07-23 – Ergänzung MHN-Kunstausstellung und angepasste Startzeit
+* v2.1-2022-09-19 – Ergänzung: [Mehrbettzimmer](#zimmer2) / Aktualisierung zu [Vorträgen udn Workshops](#programm).
+* v2.0-2022-09-17 – Ergänzung: [Keine Hunde](#hunde) / [Bücherschaulaufen](#buecher) / [Rahmenprogramm](#rahmenprogramm) // Aktualisierung zu [Bildungsurlaub](#bildungsurlaub) / [Verfügbarkeit Einzel- und Doppelzimmer](#einzelzimmer)
+* v1.1-2022-07-23 – Ergänzung: [MHN-Kunstausstellung](#kunstausstellung) und angepasste Startzeit
 * v1.0-2022-07-04 - Erste Veröffentlichung der FAQ 2022
