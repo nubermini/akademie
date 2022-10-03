@@ -1,0 +1,61 @@
+<!--
+ReferentenToolAPI
+Params:
+    name:
+    url:
+    includejs:
+Example:{{/*
+    {{% referententool name="your-referentendata-name" url="url_or_path-to-your-data.json" [includejs="true"] %}}
+*/}}
+-->
+<style>
+.vortragsform {
+	float: right;
+	text-align: right;
+	width: 16%;
+	font-size: 1rem;
+}
+.programmpunkt-info {
+	margin-bottom: 10px;
+	font-size: 1rem;
+}
+.zeit-und-ort {
+	float: right;
+	text-align: center;
+}
+.kurzvita-titel {
+	font-variant: small-caps;
+	font-size: 1rem;
+	margin-bottom: 0px;
+}
+.description {
+    font-size: 0.9rem;
+}
+.kurzvita {
+    font-size: 0.9rem;
+}
+</style>
+
+{{ with .Get "url" }}
+    {{ $url := . }}
+    {{ with $.Get "name" }}
+        {{ $name := . }}
+        <div id="{{ $name }}" class="cs-hidden">
+        {{ $data := getJSON $url }}
+        {{ range $data.data }}
+            {{ $item := . }}
+                {{ range $item.referenten }}
+                    {{ $referenten := . }}
+                        <h3 class="programmtitel">{{ $item.vTitel }}{{ if ( eq $item.beitragsform "v")}}<span class="vortragsform">Vortrag</span>{{ else if ( eq $item.beitragsform "w")}}<span class="vortragsform">Workshop</span>{{ end }}</h3>
+                        <div class="programmpunkt-info">
+                            <div class="zeit-und-ort">{{ $item.programm_raum }}, {{ time.Format "15:30, 02 Jan" $item.programm_beginn.date }}, {{ time.Format "" $item.programm_beginn.date }}</div>
+                            <div class="name">{{ $referenten.name }}</div>
+                        </div>
+                        <p class="description">{{ $item.abstract}}</p>
+                        <h4 class="kurzvita-titel">Zu {{ $referenten.name }}</h4>
+                        <p class="kurzvita">{{ $referenten.kurzvita }}</p>
+            {{ end }}
+        {{ end }}
+        </div>
+    {{ end }}
+{{ end }}

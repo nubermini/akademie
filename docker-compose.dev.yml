@@ -1,6 +1,0 @@
-version: "3.5"
-services:
-  akademie:
-    volumes:
-      - "./app:/var/www"
-      - "./teilnehmerinfos.md:/var/www/Resources/Private/Templates/Teilnehmerinfos/infos.md"

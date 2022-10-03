@@ -1,0 +1,63 @@
+baseURL: "https://mind_test.tharms.de/"
+languageCode: "de"
+title: "Mind-Akademie"
+theme: "anubis"
+
+menu:
+  main:
+    - identifier: Überblick
+      name: Überblick
+      title: Überblick
+      url: /
+      weight: 2
+    - identifier: Programm
+      name: Programm
+      title: Programm
+      url: /programm
+      weight: 3
+    - identifier: Häufige Fragen
+      name: Häufige Fragen
+      title: Häufige Fragen
+      url: /faq
+      weight: 4
+    - identifier: Anmeldung
+      name: Anmeldung
+      title: Anmeldung
+      url: https://pretix.mind-hochschul-netzwerk.de/testorg/mind-akademie-2022-2/
+      weight: 5
+    - identifier: Vergangene Akademien
+      name: Vergangene Akademien
+      title: Vergangene Akademien
+      url: /
+      weight: 6
+    - identifier: Symposium
+      name: Symposium
+      title: Symposium
+      url: /
+      weight: 7
+    - identifier: Mind-Hoschul-Netzwerk
+      name: Mind-Hoschul-Netzwerk
+      title: Mind-Hoschul-Netzwerk
+      url: /
+      weight: 8
+    - identifier: Datenschutz
+      name: Datenschutz
+      title: Datenschutz
+      url: /
+      weight: 9
+    - identifier: Impressum
+      name: Impressum
+      title: Impressum
+      url: /
+      weight: 10
+params:
+  author: "Tobias Harms"
+  style: "dark-with-switcher"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # enable raw HTML in Markdown
+  tableOfContents:
+    endLevel: 3
+    ordered: true
+    startLevel: 2
