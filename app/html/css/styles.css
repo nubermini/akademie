@@ -31,15 +31,6 @@ a:hover {
     border-bottom: 1px solid #d54839;
 }
 
-fieldset {
-    border: none;
-    margin-bottom: 1em;
-}
-
-input + fieldset {
-    margin-left: 0.5em;
-}
-
 label:first-child {
     display: inline-block;
     min-width: 10em;
@@ -47,11 +38,6 @@ label:first-child {
 
 input:not([type="radio"]):not([type="checkbox"]):not([type="submit"]) {
     border: 1px solid #888;
-}
-
-textarea {
-    border: 1px solid #888;
-    vertical-align: top;
 }
 
 table {
@@ -260,46 +246,6 @@ a.header {
 .main h3:not(:first-child),
 .main form:not(:first-child) {
     margin-top: 2em;
-}
-
-.accordion [id^="show"] {
-    width: 1px;
-    height: 1px;
-    color: #fff;
-    position: absolute;
-    left: -200em;
-}
-
-.accordion > label {
-    display: block;
-    background: #fccfaa;
-    position: relative;
-    padding: 0.2em 1em 0.2em 0.5em;
-    cursor: pointer;
-    margin-top: 1em;
-}
-
-.accordion > label:after {
-    content: '▾';
-    position: absolute;
-    top: 0.2em;
-    right: 0.5em;
-}
-
-.accordion > label input {
-    margin-right: 0.5em;
-}
-
-.accordion > input:checked + label:after {
-    content: '▴';
-}
-
-.accordion > label + div {
-    display: none;
-}
-
-.accordion > input:checked + label + div {
-    display: block;
 }
 
 .footer {
