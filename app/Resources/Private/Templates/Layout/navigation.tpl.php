@@ -7,7 +7,7 @@ namespace MHN\Akademie;
 //  Für die MA 2017 nicht relevant, da kein Programm vorhanden.
 //        'rahmenprogramm' => ['rahmenprogramm.php', 'Rahmenprogramm', 'calendar'],
         'faq' => ['faq.php', 'Häufige Fragen', 'plus'],
-        'anmeldung' => ['https://pretix.mind-hochschul-netzwerk.de/testorg/mind-akademie-2022-2/', 'Anmeldung', ''],
+//        'anmeldung' => ['https://pretix.mind-hochschul-netzwerk.de/testorg/mind-akademie-2022-2/', 'Anmeldung', ''],
         'historie' => ['historie.php', 'Vergangene Akademien', 'calendar'],
         'symposium' => ['symposium.php', 'Symposium', 'calendar',
             [
@@ -71,7 +71,7 @@ namespace MHN\Akademie;
     <a href="/" class="header">
         <img src="/img/logo.png" alt="" />
         <h1>Mind-Akademie 2022</h1>
-        <h2>Verbindungen</h2>
+        <h2>Muster und Strukturen</h2>
     </a>
     <div class="main">
 

@@ -58,22 +58,7 @@ table {
     width:100%;
     border:0;
     border-spacing:10px;
-}
-
-.historie {
     text-align: center;
-}
-
-input[type="number"][max="1"],
-input[type="number"][max="2"],
-input[type="number"][max="3"],
-input[type="number"][max="4"],
-input[type="number"][max="5"],
-input[type="number"][max="6"],
-input[type="number"][max="7"],
-input[type="number"][max="8"],
-input[type="number"][max="9"] {
-    max-width: 2em;
 }
 
 input[type="submit"],
