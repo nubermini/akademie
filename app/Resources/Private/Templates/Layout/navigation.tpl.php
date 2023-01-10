@@ -70,7 +70,7 @@ namespace MHN\Akademie;
     </ul>
     <a href="/" class="header">
         <img src="/img/logo.png" alt="" />
-        <h1>Mind-Akademie 2022</h1>
+        <h1>Mind-Akademie 2023</h1>
         <h2>Muster und Strukturen</h2>
     </a>
     <div class="main">
