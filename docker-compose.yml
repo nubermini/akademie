@@ -12,6 +12,8 @@ services:
     networks:
       - ${SERVICENAME}
       - traefik
+    environment:
+      - TEILNEHMERINFOS_PASSWORD
     volumes:
       - "./teilnehmerinfos.md:/var/www/Resources/Private/Templates/Teilnehmerinfos/infos.md"
 
